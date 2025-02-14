@@ -111,8 +111,6 @@ Contributions are welcome. If you would like to contribute, follow these steps:
 
 ## License
 
-## License
-
 Wee-CMS is licensed under the GNU General Public License v3 (GPLv3). This means:
 - The project is open source and can be freely modified and distributed.
 - Any modified versions must also be released under the GPL license.
