@@ -1,3 +1,4 @@
+from sqlalchemy import Column, Integer, String, Text
 from backend.database import Base
 
 class Post(Base):
